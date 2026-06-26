@@ -28,4 +28,4 @@ A robust C++ project developed to simplify academic performance tracking. This r
 
 ## 👤 Author
 **Asharib Shah**
-*C++ Developer | Robotics Enthusiast*
+*C++ Developer | Robotics Enthusiast  / AI Learner *
